@@ -24,7 +24,7 @@ familiar with [Git and Repo](http://source.android.com/download/using-repo).
 
 To initialize your local repository, use a command like this:
 
-    repo init -u git://github.com/kernelzilla/android.git -b froyo
+    repo init -u git://github.com/kernelzilla/android.git -b froyo-kz
 
 Then to sync up:
 
